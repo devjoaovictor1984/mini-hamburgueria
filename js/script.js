@@ -24,7 +24,7 @@ var couponState = {
 
 // whatsapp que vai receber os pedidos
 
-var WHATSAPP_NUMBER = "5565996335509";
+var WHATSAPP_NUMBER = "";
 
 
 
